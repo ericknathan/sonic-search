@@ -3,7 +3,7 @@
 
 # Sonic Search
 <p align="center">
-  <img alt="Licença" src="https://img.shields.io/static/v1?label=Licença&message=MIT&color=1B4079&labelColor=404040&style=flat-square">
+    <img alt="Licença" src="https://img.shields.io/static/v1?label=Licenca&message=MIT&color=1B4079&labelColor=404040&style=flat-square">
 </p>
 
 ## ✨ Projeto
